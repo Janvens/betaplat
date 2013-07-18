@@ -8,7 +8,7 @@
 package com.jan.beta.util.string;
 
 import java.io.UnsupportedEncodingException;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 /** 
  * desc:字符串处理工具类
